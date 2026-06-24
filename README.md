@@ -75,6 +75,16 @@ Visit: http://localhost:8000
 Web App: Register, create a customer, and generate an invoice.
 Stripe Payment: Use test card 4242 4242 4242 4242 (Expiry: 12/30, CVC: 123).
 Client Portal: Visit /portal/login using the customer's email and portal password.
-```bash
+
 git clone https://github.com/CyberPhantomX1/secure-saas-invoicing.git
 cd secure-saas-invoicing
+
+### api testing images
+<img width="1917" height="1025" alt="Screenshot 2026-06-24 234735" src="https://github.com/user-attachments/assets/62d6124f-54a7-4ada-9c5a-418f0dcf6179" />
+<img width="1916" height="995" alt="Screenshot 2026-06-24 235716" src="https://github.com/user-attachments/assets/9013535a-98e4-4d05-9d8f-4a0568e668ac" />
+<img width="1917" height="1017" alt="Screenshot 2026-06-25 000536" src="https://github.com/user-attachments/assets/b25b7e69-e6eb-4389-8531-8472822e3d3f" />
+<img width="1917" height="1018" alt="Screenshot 2026-06-25 000550" src="https://github.com/user-attachments/assets/f6ab5912-6290-4582-bcb7-89e80fee96eb" />
+<img width="1917" height="1020" alt="Screenshot 2026-06-25 000543" src="https://github.com/user-attachments/assets/7bad72e6-2542-49c1-9155-01690df3e87f" />
+<img width="1917" height="1017" alt="Screenshot 2026-06-25 000557" src="https://github.com/user-attachments/assets/9c73fd5b-9348-45ad-b95a-2fafd51bbdf3" />
+<img width="1917" height="1017" alt="Screenshot 2026-06-25 000613" src="https://github.com/user-attachments/assets/5221e0c9-afe7-4196-978b-3844b8555c83" />
+<img width="1917" height="1020" alt="Screenshot 2026-06-25 000606" src="https://github.com/user-attachments/assets/60381d5b-7c64-4ee5-8d60-e213ea607353" />
