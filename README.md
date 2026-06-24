@@ -79,6 +79,15 @@ Client Portal: Visit /portal/login using the customer's email and portal passwor
 git clone https://github.com/CyberPhantomX1/secure-saas-invoicing.git
 cd secure-saas-invoicing
 
+
+### UI/UX and other design and work flow
+<img width="1900" height="972" alt="image" src="https://github.com/user-attachments/assets/8565a5ed-eda9-4905-aa35-8670d173baac" />
+<img width="1906" height="967" alt="image" src="https://github.com/user-attachments/assets/e45787ff-ddbc-4403-9dd0-84a36f8b5da8" />
+<img width="1907" height="858" alt="image" src="https://github.com/user-attachments/assets/23c96b01-bbfc-4c76-80f8-11b07a89166b" />
+<img width="1888" height="971" alt="image" src="https://github.com/user-attachments/assets/d164dd92-857a-40be-a7ee-d42ca31bf838" />
+<img width="1887" height="965" alt="image" src="https://github.com/user-attachments/assets/d61c78ec-adb2-4ce6-938f-2a288f72f018" />
+
+
 ### api testing images
 <img width="1917" height="1025" alt="Screenshot 2026-06-24 234735" src="https://github.com/user-attachments/assets/62d6124f-54a7-4ada-9c5a-418f0dcf6179" />
 <img width="1916" height="995" alt="Screenshot 2026-06-24 235716" src="https://github.com/user-attachments/assets/9013535a-98e4-4d05-9d8f-4a0568e668ac" />
